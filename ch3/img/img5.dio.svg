@@ -1,0 +1,226 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="680px" height="240px" viewBox="-0.5 -0.5 680 240" content="&lt;mxfile&gt;&lt;diagram id=&quot;DF-UeTWlYP7x7Q55XCoI&quot; name=&quot;Page-1&quot;&gt;7Vltb+MoEP41fI2MsbH90c7L3X5YdaXu6aT7Rm3ioDomckiT7q+/wcaO36J6r25X3WsTVTAwAzzPMDAEkeX+8kfBDruvMuEZsq3kgsgK2TalAfzXgudK4FJSCdJCJJUIXwX34gc3QstITyLhx05HJWWmxKErjGWe81h1ZKwo5LnbbSuz7qgHlvKB4D5m2VD6t0jUrpL6rnWV/8lFuqtHxpZp2bO6sxEcdyyR55aIrBFZFlKqqrS/LHmmsatxqfQ2N1qbiRU8V1MUKK00nlh2MoszE1PP9WoLecoTrhUsRKLzTih+f2Cxbj0DvSDbqX0GNQzFrciye6N7lJkeJ0oLlgiY0FJmsihtkqD8a7WtRAFMCZlDuxYxMBgdVSEfea2WyxysRmbCvFD8cnPVuMESfJDLPVfFM3QxCo5B/7lbPV+5pL6R7Vo8Nh2Z8Z+0sXyFGAoG5RuIk59BHE9DvIXsdru143gAHrRsNkFACLQk7LhrrM8AZx/Pxt1bgNpjgGJ7DkCdIaBrB0UbFGK0DlBooWiJ1gT5GIWeKfirsmAjP0JrF/kU+W5ZwChy6s7r0o6PAorWHgqgdTmgClBTXT5YJlLtxTGgxwH6SGMrIHiEpmEvkkSrjxLb3WxbmasN24tMIxt9+QfG/mv1zUzdTBQK1arKbyUJN0Z5jH4tr7corutVjMXOPB5BLLfrEXjoEdgd8Qgyh0O4Iw5RggOwVAXjEPZVAuyaPqtrn1dHwhb8DxYnnN4Kaq8muk9oa2RnpT89ou2Ztr7d2/qutaD2gGtij3A9SzT1Xo6mcMYeeAm1urXrWrQ9sPgxLYm+O6lM5DWoCSse70BLKL1UawEernerYubQCrRLHCt0bWsedD1nYfc2EvGH4HoLd4iuhxvdVwHsDwBefb/7SGFwBh5o38n9MSenbxXPgpd9HDTg8jvBvdnxUN2It+Ki8R1eE5pwMUd4sCaFB+eNooNnfVjk3GmB9c2QwxOQy5NQJ1NQe8hk/NiFq0KnTo/0vQP6b0TWbW+h51v606DHk0EO9iJ2LWDGLhe1rOAZRO2nrvkxtMwI36SAgRtqMKFdajyywHbXylGeipgbxXb+1bcVvGxLsSLlamCrpLBZ/DRW7d/5tKSOOzwu6fsel94wu/sfHpcE92IXfc/z0htJCD9jlzFDh1dKz/rP4Yvak8zNGMHGcruJyT5Iwlri6GQ/dMrUvkn2f+v0v5sFmhXU0WrGy7H3jpm+N/J6+ekNv9QbXPcXusPIY4CmEbitHvdCFECEppkmKRFPUEx1sUaufiYyPgNfv+4NQ7cVPhjx9aPPTBctHPRzk/c934dPEqOkAuEeisIB830uP/3htXse9/3BfUN/gOr197HqCnH9kZGs/wU=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <radialGradient x1="0%" y1="0%" x2="0%" y2="0%" id="drawio-svg-CeQ-k5H-KdHvu4DDBenC-gradient-light-dark_ffffff_var_--ge-dark-color_121212_-1-light-dark_999999_6a6a6a_-1-r-0">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="1" style="stop-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#999999" stop-opacity="1" style="stop-color: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stop-opacity: 1;"/>
+        </radialGradient>
+    </defs>
+    <g>
+        <g>
+            <rect x="0" y="0" width="680" height="240" fill="url(#drawio-svg-CeQ-k5H-KdHvu4DDBenC-gradient-light-dark_ffffff_var_--ge-dark-color_121212_-1-light-dark_999999_6a6a6a_-1-r-0)" stroke="none" pointer-events="all" style="fill: url(&quot;#drawio-svg-CeQ-k5H-KdHvu4DDBenC-gradient-light-dark_ffffff_var_--ge-dark-color_121212_-1-light-dark_999999_6a6a6a_-1-r-0&quot;);"/>
+        </g>
+        <g>
+            <rect x="200" y="60" width="280" height="120" rx="18" ry="18" fill="#fff2cc" stroke="#ff9933" stroke-dasharray="3 3" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(255, 153, 51), rgb(169, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="265" y="70" width="150" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 148px; height: 1px; padding-top: 85px; margin-left: 266px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FF9933; ">
+                                <div style="display: inline-block; font-size: 14px; font-family: &quot;BIZ UDPゴシック&quot;; color: light-dark(#FF9933, #a95100); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    信頼できる内側の世界
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="340" y="89" fill="#FF9933" font-family="&quot;BIZ UDPゴシック&quot;" font-size="14px" text-anchor="middle" font-weight="bold">
+                        信頼できる内側の世界
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="180" y="110.62" width="320" height="40" fill="#b0e3e6" stroke="none" pointer-events="all" style="fill: light-dark(rgb(176, 227, 230), rgb(16, 60, 63));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 318px; height: 1px; padding-top: 131px; margin-left: 181px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #4D4D4D; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;BIZ UDPゴシック&quot;; color: light-dark(#4D4D4D, #ababab); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    ワークフロー
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="340" y="134" fill="#4D4D4D" font-family="&quot;BIZ UDPゴシック&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
+                        ワークフロー
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 34.25 98 L 51.75 98 L 71.75 118 L 71.75 169.25 L 34.25 169.25 L 34.25 98 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(90,53,133.63)" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 51.75 98 L 51.75 118 L 71.75 118 Z" fill-opacity="0.05" fill="#000000" stroke="none" transform="rotate(90,53,133.63)" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));"/>
+            <path d="M 51.75 98 L 51.75 118 L 71.75 118" fill="none" stroke="#000000" stroke-miterlimit="10" transform="rotate(90,53,133.63)" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="20" y="118.62" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 134px; margin-left: 21px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;BIZ UDPゴシック&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    DTO
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="50" y="137" fill="light-dark(#000000, #ffffff)" font-family="&quot;BIZ UDPゴシック&quot;" font-size="12px" text-anchor="middle">
+                        DTO
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <ellipse cx="180" cy="130.62" rx="20" ry="20" fill="#ffffff" stroke="#4d4d4d" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(77, 77, 77), rgb(171, 171, 171));"/>
+        </g>
+        <g>
+            <ellipse cx="500" cy="130.62" rx="20" ry="20" fill="#ffffff" stroke="#4d4d4d" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(77, 77, 77), rgb(171, 171, 171));"/>
+        </g>
+        <g>
+            <path d="M 96 133.12 L 143.65 133.12" fill="none" stroke="#808080" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 152.65 133.12 L 143.65 137.62 L 143.65 128.62 Z" fill="#808080" stroke="#808080" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <path d="M 605.25 96 L 622.75 96 L 642.75 116 L 642.75 167.25 L 605.25 167.25 L 605.25 96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(90,624,131.63)" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 622.75 96 L 622.75 116 L 642.75 116 Z" fill-opacity="0.05" fill="#000000" stroke="none" transform="rotate(90,624,131.63)" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));"/>
+            <path d="M 622.75 96 L 622.75 116 L 642.75 116" fill="none" stroke="#000000" stroke-miterlimit="10" transform="rotate(90,624,131.63)" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="591" y="116.62" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 132px; margin-left: 592px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;BIZ UDPゴシック&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    DTO
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="621" y="135" fill="light-dark(#000000, #ffffff)" font-family="&quot;BIZ UDPゴシック&quot;" font-size="12px" text-anchor="middle">
+                        DTO
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 524.25 130.12 L 571.9 130.12" fill="none" stroke="#808080" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 580.9 130.12 L 571.9 134.62 L 571.9 125.62 Z" fill="#808080" stroke="#808080" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <rect x="20" y="30" width="150" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 148px; height: 1px; padding-top: 45px; margin-left: 21px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #4D4D4D; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;BIZ UDPゴシック&quot;; color: light-dark(#4D4D4D, #ababab); line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
+                                    信頼できない外の側の世界
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="95" y="49" fill="#4D4D4D" font-family="&quot;BIZ UDPゴシック&quot;" font-size="12px" text-anchor="middle" font-weight="bold" font-style="italic">
+                        信頼できない外の側の世界
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="510" y="30" width="150" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 148px; height: 1px; padding-top: 45px; margin-left: 511px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #4D4D4D; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;BIZ UDPゴシック&quot;; color: light-dark(#4D4D4D, #ababab); line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
+                                    信頼できない外の側の世界
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="585" y="49" fill="#4D4D4D" font-family="&quot;BIZ UDPゴシック&quot;" font-size="12px" text-anchor="middle" font-weight="bold" font-style="italic">
+                        信頼できない外の側の世界
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="150" y="116.62" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 132px; margin-left: 151px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 10px; font-family: &quot;BIZ UDPゴシック&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    入力
+                                    <div>
+                                        ゲート
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="180" y="135" fill="light-dark(#000000, #ffffff)" font-family="&quot;BIZ UDPゴシック&quot;" font-size="10px" text-anchor="middle">
+                        入力
+ゲート
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="470" y="115.62" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 131px; margin-left: 471px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 10px; font-family: &quot;BIZ UDPゴシック&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <div>
+                                        出力
+                                    </div>
+                                    <div>
+                                        ゲート
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="500" y="134" fill="light-dark(#000000, #ffffff)" font-family="&quot;BIZ UDPゴシック&quot;" font-size="10px" text-anchor="middle">
+                        出力
+ゲート
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
